@@ -1,0 +1,3 @@
+digraph ObjectGraph {
+  node[shape=box, style=filled, fillcolor=white];
+}

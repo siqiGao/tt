@@ -1,0 +1,6 @@
+digraph ObjectGraph {
+  node[shape=box, style=filled, fillcolor=white];
+  o139780413988936[fontcolor=red];
+  o139780413988936[label="dict\n23 items"];
+  o139780413988936[fillcolor="0,0,1"];
+}
